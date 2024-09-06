@@ -1,5 +1,0 @@
-streamlit
-pyPDF2
-google.enerativeai
-python-dotenv
-pdf2image
